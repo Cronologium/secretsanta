@@ -7,7 +7,8 @@ Based on the question listed [here](https://math.stackexchange.com/questions/289
 
 # Setup
 
-In order to run the program, you'll need Python3 installed and the [cryptography pip package](https://cryptography.io/en/latest/). In order to install it, run: `sudo pip install cryptography`
+In order to run the program, you'll need Python3 installed and the [cryptography pip package](https://cryptography.io/en/latest/). In order to install it, run: 
+`sudo pip install cryptography`
 
 # How it works
 
