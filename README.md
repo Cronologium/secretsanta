@@ -1,4 +1,4 @@
-# secretsanta
+# SecretSanta
 An algorithm which solves the hassle of distributing pieces of paper to people for secret santa
 
 # Problem statement
